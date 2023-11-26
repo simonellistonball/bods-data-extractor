@@ -11,7 +11,7 @@ geopandas==0.12.2
 gtfs-realtime-bindings==0.0.7
 idna==3.4
 importlib-metadata==4.13.0
-lxml==4.9.2
+lxml==4.9.3
 munch==2.5.0
 numpy==1.24.2
 packaging==23.0
